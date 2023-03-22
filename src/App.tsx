@@ -1,13 +1,8 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import styled from "styled-components";
+import Test from "./Test";
 
 function App() {
-  return <Container>
-    
-  </Container>;
+  return <Test />;
 }
 
-const Container = styled.div``;
 export default App;
